@@ -1,108 +1,135 @@
-
 <div align="center">
 
-<img src="./arlecchino.png" width="130" alt="Arlecchino"/>
+<img src="./arlecchino.png" width="125" alt="Arlecchino"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,40:260d18,100:9b294e&height=200&section=header&text=LECHUAAH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=welcome%20to%20my%20world&descAlignY=60&descSize=16" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,40:210b13,100:711c35&height=3"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=17&duration=3000&pause=1000&color=C77B99&center=true&vCenter=true&width=500&lines=BCA+FIRST+YEAR;ROBLOX+ADDICT;LEARNING+TO+CODE;JUST+HERE+DOING+MY+THING" />
+# LECHUAAH
+
+**BCA STUDENT · GAMER · ASPIRING DEVELOPER**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C77B91&center=true&vCenter=true&width=480&lines=Building+my+own+digital+world.;Learning.+Experimenting.+Creating.;Roblox+after+class%2C+code+after+that." />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Lechuaah)
+[![Roblox](https://img.shields.io/badge/ROBLOX-111111?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/)
+[![Profile](https://komarev.com/ghpvc/?username=Lechuaah&style=flat-square&color=71334a&label=PROFILE+VIEWS)](https://github.com/Lechuaah)
 
 </div>
 
+<br/>
+
 ---
 
-## WHO AM I?
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 01 / PROFILE
+
+I'm Lechuaah.
+
+A first-year Bachelor of Computer Applications student interested in technology, programming and digital creativity.
+
+Currently learning how things work behind the screen and building my skills one project at a time.
+
+</td>
+<td width="45%" valign="top">
+
+### 02 / DETAILS
 
 ```yaml
 username: Lechuaah
 education: BCA
 year: First Year
-field: Computer Applications
-currently_learning:
-  - HTML
-  - CSS
-  - JavaScript
-  - Python
-interests:
-  - Anime
-  - Roblox
-  - Gaming
-  - Technology
-status: figuring things out
+role: Student
+focus: Programming
+currently: Learning
 ```
 
-## ABOUT ME
+</td>
+</tr>
+</table>
 
-I'm a first-year BCA student exploring the world of programming.
+---
 
-Mostly found playing Roblox, watching anime or doing absolutely nothing.
+### 03 / WHAT I'M INTO
 
-Still learning, still experimenting, still figuring shit out.
+| CATEGORY | INTEREST |
+|:--|:--|
+| DEVELOPMENT | Learning to build websites and applications |
+| GAMING | Roblox, multiplayer games |
+| ANIME | Genshin Impact, anime culture |
+| CREATIVE | Digital aesthetics and design |
+| GOAL | Becoming a skilled developer |
 
-## CURRENTLY INTO
+---
 
-- Learning programming from scratch
-- Exploring web development
-- Playing Roblox
-- Watching anime
-- Building my first projects
+### 04 / TECHNOLOGIES
 
-## MY TECH STACK
+<div align="left">
 
-<div align="center">
+**Currently exploring**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" height="42"/>
 
-</div>
+**Tools**
 
-## GAMING
-
-**Main game:** Roblox
-
-**Other interests:** Anime games, multiplayer games and exploring new games.
-
-## GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lechuaah&show_icons=true&hide_border=true&bg_color=090909&title_color=d879a5&icon_color=d879a5&text_color=ffffff" width="95%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechuaah&layout=compact&hide_border=true&bg_color=090909&title_color=d879a5&text_color=ffffff" width="95%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Lechuaah&theme=dark&hide_border=true&background=090909&ring=d879a5&fire=d879a5&currStreakLabel=d879a5" width="95%"/>
-
-</div>
-
-## CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lechuaah&bg_color=090909&color=d879a5&line=d879a5&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/Lechuaah">
-<img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="42"/>
 
 </div>
 
 ---
 
+### 05 / GITHUB ANALYTICS
+
 <div align="center">
 
-<sub>fuck around. learn. repeat.</sub>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Lechuaah&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d78ba6&icon_color=d78ba6&text_color=c9c9c9&rank_icon=github"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b294e,50:260d18,100:080808&height=120&section=footer" width="100%"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechuaah&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d78ba6&text_color=c9c9c9"/>
+
+<br/><br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Lechuaah&hide_border=true&background=0d0d0d&ring=d78ba6&fire=d78ba6&currStreakLabel=d78ba6&sideLabels=c9c9c9&dates=999999"/>
+
+</div>
+
+---
+
+### 06 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lechuaah&bg_color=0d0d0d&color=d78ba6&line=963e60&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+### 07 / CURRENT STATUS
+
+```text
+EDUCATION       BCA · FIRST YEAR
+DEVELOPMENT     BEGINNER
+GAMING          ROBLOX
+INTEREST        ANIME & TECHNOLOGY
+MISSION         LEARN. BUILD. IMPROVE.
+```
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:711c35,50:210b13,100:080808&height=120&section=footer"/>
+
+**LECHUAAH**
+
+<sub>Made of curiosity. Powered by late nights.</sub>
 
 </div>
