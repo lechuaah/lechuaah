@@ -1,160 +1,56 @@
-<div align="center">
-
-<table>
-<tr>
-<td colspan="2" align="left">
-<code>● ● ● &nbsp; profile.sh — active</code>
-</td>
-</tr>
-<tr>
-<td width="32%" align="center" valign="middle">
-
-<img src="./arlecchino-visual.png" width="100%" alt="Arlecchino"/>
-
-# LECHUAAH
-
-**BCA Student · First Year**
-
-<sub>fuck around.<br/>learn to code. repeat.</sub>
-
-<br/>
-
-<a href="https://github.com/Lechuaah">GITHUB</a>
-
-</td>
-<td width="68%" valign="top">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### VISUAL.MAP
-
-<img src="./arlecchino-visual.png" width="100%"/>
-
-<sub>PTS 10000 · ARLECCHINO</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### SYSTEM.INFO
-
-```text
-Subject    : Lechuaah
-Role       : BCA Student
-Education  : First Year
-Status     : Learning
-Interest   : Roblox / Anime
-Focus      : Programming
-Core.Lang  : HTML / CSS / JS
-OS         : Windows
-```
-
-<sub>● ALL SYSTEMS NORMAL</sub>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-## Building here since forever ♡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8e245b,100:ff69b4&height=180&section=header&text=Lechuaah&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20little%20world%20%F0%9F%8C%B8&descSize=16&descAlignY=55" width="100%" />
 
-GITHUB | ROBLOX
-
-</div>
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Lechuaah+%F0%9F%96%A4;BCA+Student+%F0%9F%8C%B8;Learning+to+code+one+day+at+a+time;Welcome+to+my+GitHub!" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="42%" valign="top">
+## 🌸 About Me
 
-## This is me :)
+- 🎀 Hi! I'm **Lechuaah**
+- 💻 BCA Student
+- 🌱 Learning programming and exploring technology
+- 🎨 Love anime, creativity and aesthetic designs
+- 🌙 Dreaming big and learning every day
 
-Hi, I'm Lechuaah. First-year BCA student exploring programming, gaming and technology.
+## 🖤 My Coding Journey
 
-- Learning to code
-- Playing Roblox
-- Watching anime
-- Dreaming big
+**Currently exploring:**
 
-<sub>BCA 2026 ♡</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github&theme=dark" />
 
-</td>
-<td width="58%" valign="top">
-
-## Tech Stack
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lechuaah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4" width="95%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechuaah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4" width="95%" />
+
+<img src="https://streak-stats.demolab.com?user=Lechuaah&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4" width="95%" />
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-## GitHub Stats
+## 🌷 My Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lechuaah&show_icons=true&hide_border=true&bg_color=111827&title_color=d98eb8&icon_color=d98eb8&text_color=c9b8d0" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechuaah&layout=compact&hide_border=true&bg_color=111827&title_color=d98eb8&text_color=c9b8d0" width="80%"/>
-
-<img src="https://streak-stats.demolab.com?user=Lechuaah&hide_border=true&background=111827&ring=d98eb8&fire=d98eb8&currStreakLabel=d98eb8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lechuaah&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lechuaah&bg_color=111827&color=d98eb8&line=d98eb8&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</td>
-<td width="35%" valign="top">
-
-## Currently Into
-
-<div align="center">
-
-**ROBLOX**
-
-**ANIME**
-
-**CODING**
-
-**TECHNOLOGY**
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3000&pause=1000&color=D98EB8&center=true&vCenter=true&width=500&lines=not+here+to+impress.;just+here+to+build."/>
+### ✨ Keep learning. Keep creating. Keep growing. ✨
 
-<img src="https://komarev.com/ghpvc/?username=Lechuaah&style=flat-square&color=754568&label=PROFILE+VIEWS"/>
+**Thanks for visiting my profile!** 🖤🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:8e245b,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
